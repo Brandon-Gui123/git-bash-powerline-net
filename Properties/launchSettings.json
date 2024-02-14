@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "GitBashPowerlineNET": {
+      "commandName": "Project",
+      "commandLineArgs": "127",
+      "workingDirectory": "C:\\Users\\Brandon\\Git Repositories\\vcpkg"
+    }
+  }
+}

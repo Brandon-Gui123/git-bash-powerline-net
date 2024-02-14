@@ -1,0 +1,20 @@
+﻿namespace GitBashPowerlineNET;
+
+public enum Symbol
+{
+	LEFT_HARD_DIVIDER,
+	REPO_BRANCH,
+	COMMIT,
+	FILE_ADDED,
+	FILE,
+	FILE_REMOVED,
+	FILE_MOVED,
+	STAR,
+	GIT_MERGE,
+	CHERRY,
+	SEARCH,
+	BUG,
+	ARROW_U_DOWN_LEFT,
+	HISTORY,
+	FLAG,
+}
