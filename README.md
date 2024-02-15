@@ -100,6 +100,12 @@ If you're in the middle of a revert, the segment will display an icon to the rig
 
 ![Screenshot of Git segment on revert status](screenshots/Revert%20Status%20Git%20Powerline.png)
 
+#### Bisect Status
+
+If you're in the middle of bisecting, the segment will display an icon to the right.
+
+![Screenshot of Git segment on bisect status](screenshots/Bisect%20Status%20Git%20Powerline.png)
+
 ### Error Code Segment
 
 If a non-zero error code is produced by the last command, then it will be shown the next time the prompt is displayed.
