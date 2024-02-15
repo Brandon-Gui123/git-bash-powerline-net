@@ -10,6 +10,17 @@ Diving inside the repositories, I soon learnt how easy it was to create a progra
 
 So I went ahead to make my own variant.
 
+## Before You Continue...
+
+For the glyphs to render properly, you need a font that can do all that. [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) is what I use for this.
+
+I used specific glyphs from specific sets for certain symbols. If you are patching a font using Nerd Font's [font-patcher](https://github.com/ryanoasis/nerd-fonts?tab=readme-ov-file#font-patcher) and don't want to add every glyph set into your font, I've narrowed down on what glyph sets I used (the command-line options are what should be used in font-patcher to get the font with just the glyph sets that I used in this program):
+
+* Powerline Symbols (`--powerline`)
+* Octicons (`--octicons`)
+* Font Awesome Extension (`--fontawesomeext`)
+* Markdown (`--markdown`)
+
 ## Setting Up
 
 1. Head over to the [Releases](https://github.com/Brandon-Gui123/git-bash-powerline-net/releases/download/v0.1.0/GitBashPowerlineNET.zip) page and download **GitBashPowerlineNET.zip** from the version you want.
